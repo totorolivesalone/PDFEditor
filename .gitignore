@@ -1,4 +1,5 @@
 pdfInput/
+pdfOutput/
 output/
 .vscode/
 __pycache__/
