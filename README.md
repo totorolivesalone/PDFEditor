@@ -3,7 +3,7 @@
 PDF Editor toolbox containing scripts to manipulate pdfs natively because I don't want to pay for yet another subscription :Þ  
 
 ## Pre-requisites
-Python 3.9 or higher
+Python 3.9 or higher ;
 pip or conda package manager
 
 ## Installation
